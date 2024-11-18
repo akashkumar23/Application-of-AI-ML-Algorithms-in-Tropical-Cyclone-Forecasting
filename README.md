@@ -5,25 +5,24 @@ Analysing the Data set from various meterological department for classification 
 
 ## Screenshots
 
-![Alt text](output/1.png)
+![Alt text](outputs/1.png)
 
 
-![Alt text](output/2.png)
+![Alt text](outputs/2.png)
 
 
-![Alt text](output/3.png)
+![Alt text](outputs/3.png)
 
 
-![Alt text](output/4.png)
+![Alt text](outputs/4.png)
 
 
-![Alt text](output/5.png)
+![Alt text](outputs/5.png)
 
 
-![Alt text](output/6.png)
+![Alt text](outputs/6.png)
 
 
-
-![Alt text](output/7.png)
+![Alt text](outputs/7.png)
 
 
