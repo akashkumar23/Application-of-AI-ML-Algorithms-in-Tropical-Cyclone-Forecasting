@@ -25,7 +25,7 @@ Analysing the Data set from various meterological department for classification 
 
 ![Alt text](outputs/7.png)
 
-![Alt text](output ss/8.png)
+![Alt text](outputs/8.png)
 
-![Alt text](output ss/9.png)
+![Alt text](outputs/9.png)
 
