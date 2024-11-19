@@ -3,28 +3,27 @@
 
 Analysing the Data set from various meterological department for classification of cyclone and generationg the time series of those cyclone.
 
-## Screenshots
+## Screenshots of the output
 
-![Alt text](output ss/1.png)
-
-
-![Alt text](output ss/2.png)
+![Alt text](outputs/1.png)
 
 
-![Alt text](output ss/3.png)
+![Alt text](outputs/2.png)
 
 
-![Alt text](output ss/4.png)
+![Alt text](outputs/3.png)
 
 
-![Alt text](output ss/5.png)
+![Alt text](outputs/4.png)
 
 
-![Alt text](output ss/6.png)
+![Alt text](outputs/5.png)
 
 
+![Alt text](outputs/6.png)
 
-![Alt text](output ss/7.png)
+
+![Alt text](outputs/7.png)
 
 ![Alt text](output ss/8.png)
 
